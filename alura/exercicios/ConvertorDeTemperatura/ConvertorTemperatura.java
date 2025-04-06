@@ -1,3 +1,5 @@
+package ConvertorDeTemperatura;
+
 import java.util.Scanner;
 public class ConvertorTemperatura {
     public static void main(String[] args) {
