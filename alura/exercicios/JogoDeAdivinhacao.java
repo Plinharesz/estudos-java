@@ -8,7 +8,7 @@ Para gerar um número aleatório em Java: new Random().nextInt(100);
 Utilize o Scanner para obter os dados do usuário;
 Utilize uma variável para contar as tentativas;
 Utilize um loop para controlar as tentativas;
-Utilize a instrução break; para interromper o loop.
+Utilize a instrução break; para interromper o loop;
 
  */
 public class JogoDeAdivinhacao {
