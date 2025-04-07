@@ -24,7 +24,7 @@ public class JogoDeAdivinhacao {
                 -> Você tem 5 tentativas.""");
 
         int secretNumber = new Random().nextInt(100) + 1; // esse método gera um número de 0 a 99. Por isso o (+1) pra estar entre 1 e 100
-        int palpite = 0;
+        int palpite;
         int tentativas = 0;
 
         while (tentativas < 5) {
