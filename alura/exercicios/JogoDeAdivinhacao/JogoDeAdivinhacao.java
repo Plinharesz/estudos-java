@@ -23,7 +23,7 @@ public class JogoDeAdivinhacao {
                     JOGO DE ADIVINHAÇÃO - Acerte o número entre 1 e 100.
                 -> Você tem 5 tentativas.""");
 
-        int secretNumber = new Random().nextInt(100) + 1; // esse método gera um número de 0 a 99. Por isso o (+1) pra estar entre 1 e 100
+        int secretNumber = new Random().nextInt(100) + 1; // // Gera número aleatório entre 1 e 100 (0 a 99 + 1)
         int palpite;
         int tentativas = 0;
 
