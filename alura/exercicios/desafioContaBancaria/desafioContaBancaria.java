@@ -1,7 +1,7 @@
 // Importando a classe Scanner para leitura de dados do usuário
-package ContaBancaria;
+package desafioContaBancaria;
 import java.util.Scanner;
-public class ContaBancaria {
+public class desafioContaBancaria {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
